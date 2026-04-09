@@ -3,22 +3,19 @@
 ## 📌 Student Details
 - Name: Abhinash Gautam
 - Course: BCA
-- Semester: [Your Semester]
-- Subject: [Subject Name]
-- Institute: [Your College Name]
+- Semester: 4 'E'
+- Subject: Python
+- Institute: Marwadi University 
 
 ---
 
 ## 📁 Repository Contents
 This repository contains my college lab work submitted as a ZIP file.
 
-- 📦 Lab Work File: `lab_work.zip`
 
 The ZIP file includes:
 - All practical programs
 - Source code files
-- Output screenshots (if applicable)
-- Supporting documents
 
 ---
 
@@ -28,18 +25,6 @@ The ZIP file includes:
 3. Extract it using any tool (WinRAR / 7-Zip / built-in extractor).
 4. Open the extracted folder to view all lab work files.
 
----
-
-## 🛠️ Technologies Used
-- [e.g., C#, Python, Java, etc.]
-- [Add tools/software if needed]
-
----
-
-## 📅 Submission Details
-- Submitted to: Invigilator
-- Submission Type: GitHub Repository Link
-- Date: [Submission Date]
 
 ---
 
@@ -50,6 +35,6 @@ The ZIP file includes:
 ---
 
 ## 🔗 Repository Link
-[Paste your GitHub repo link here]
+https://github.com/abhinashgautam/LB_Python_92400527307_Abhinash_Kumar_Gautam.git
 
 ---
